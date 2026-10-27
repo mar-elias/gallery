@@ -1,0 +1,22 @@
+This is lineageos glimpse for android.
+
+I would like to modify it such that:
+
+1. I want to add the option to rename photos.
+2. Pressing the favourite button adds "_■" to the end of a file name. Pressing it again on a photo with a "_■" at the end removes this photo from favourites.
+
+Note that if the photo (or video) is called photo.jpg or clip.mp4, it should become photo_■.jpg and clip_■.mp4
+
+Add option to star videos and photos ending with _square
+
+Update zooming scales
+
+Double tap to zoom
+
+Zoom out 4x faster
+
+Fix image zoom
+
+Add ability to pin albums by pressing and holding
+
+Rename app
